@@ -1,0 +1,9 @@
+[submodule "prismatic-types"]
+	path = external/prismatic-types
+	url = https://github.com/HermaeusMorea/prismatic-types.git
+[submodule "PRISM"]
+	path = external/PRISM
+	url = https://github.com/HermaeusMorea/PRISM.git
+[submodule "llm-compiler"]
+	path = external/llm-compiler
+	url = https://github.com/HermaeusMorea/llm-compiler.git
